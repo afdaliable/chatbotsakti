@@ -3283,272 +3283,272 @@
     {
       "tag": "juknis_satu",
       "patterns": ["Juknis Kartu Kredit Pemerintah (KKP)"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang siklus UP KKP, mulai dari pembuatan usulan UP KKP pertama kali, melakukan transaksi UP KKP, Membuat SPP – SPM KKP hingga melakukan transaksi pungut dan setor pajak KKP. "
+      "responses": "Petunjuk teknis ini menjelaskan tentang siklus UP KKP, mulai dari pembuatan usulan UP KKP pertama kali, melakukan transaksi UP KKP, Membuat SPP – SPM KKP hingga melakukan transaksi pungut dan setor pajak KKP. <a href=\"https://haichatbotsakti.site/bendahara/kartu-kredit-pemerintah\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a> "
     },
     {
       "tag": "juknis_dua",
       "patterns": ["Juknis Mencatat Perintah Bayar untuk Belanja Aset atau Persediaan"],
-      "responses": "Petunjuk teknis ini Menjelaskan tentang cara mencatat perintah bayar untuk Belanja Aset - Persediaan, nantinya akan digunakan menjadi dasar dalam perekaman kuitansi dan pungutan pajak oleh Bendahara Pengeluaran/Bendahara Pengeluaran Pembantu"
+      "responses": "Petunjuk teknis ini Menjelaskan tentang cara mencatat perintah bayar untuk Belanja Aset - Persediaan, nantinya akan digunakan menjadi dasar dalam perekaman kuitansi dan pungutan pajak oleh Bendahara Pengeluaran/Bendahara Pengeluaran Pembantu.<a href=\"https://haichatbotsakti.site/bendahara/mencatat-perintah-bayar-untuk-belanja-aset-persediaan\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_tiga",
       "patterns": ["Juknis Mencatat Perintah Bayar untuk Belanja Non Aset atau Persediaan"],
-      "responses": "Petunjuk teknis ini Menjelaskan tentang cara mencatat perintah bayar untuk Belanja NON Aset - Persediaan, nantinya akan digunakan menjadi dasar dalam perekaman kuitansi dan pungutan pajak oleh Bendahara Pengeluaran/Bendahara Pengeluaran Pembantu"
+      "responses": "Petunjuk teknis ini Menjelaskan tentang cara mencatat perintah bayar untuk Belanja NON Aset - Persediaan, nantinya akan digunakan menjadi dasar dalam perekaman kuitansi dan pungutan pajak oleh Bendahara Pengeluaran/Bendahara Pengeluaran Pembantu.<a href=\"https://haichatbotsakti.site/bendahara/mencatat-perintah-bayar-untuk-belanja-non-aset-persediaan\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_empat",
       "patterns": ["Juknis Perekaman Referensi Detil Rekening"],
-      "responses": "Petunjuk teknis ini digunakan untuk perekaman referensi Detil Rekening Bendahara, baik rekening bendahara pengeluaran (BPG), bendahara penerimaan (BPN), ataupun rekening pengelolaan lainnya (RPL) yang nantinya akan digunakan untuk perekaman transaksi yang bersifat non tunai di modul bendahara."
+      "responses": "Petunjuk teknis ini digunakan untuk perekaman referensi Detil Rekening Bendahara, baik rekening bendahara pengeluaran (BPG), bendahara penerimaan (BPN), ataupun rekening pengelolaan lainnya (RPL) yang nantinya akan digunakan untuk perekaman transaksi yang bersifat non tunai di modul bendahara.<a href=\"https://haichatbotsakti.site/bendahara/perekaman-referensi-detail-rekening\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_lima",
       "patterns": ["Juknis Siklus Perekaman Transaksi UP GUP"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang siklus Perekaman Transaksi UP GUP , mulai dari Pemindahan Kas Bank, Validasi Perintah Bayar, Membuat Kuitansi hingga SPP UP sudah menjadi SP2D dan dicatat oleh operator pembayaran. "
+      "responses": "Petunjuk teknis ini menjelaskan tentang siklus Perekaman Transaksi UP GUP , mulai dari Pemindahan Kas Bank, Validasi Perintah Bayar, Membuat Kuitansi hingga SPP UP sudah menjadi SP2D dan dicatat oleh operator pembayaran.<a href=\"https://haichatbotsakti.site/bendahara/siklus-perekaman-up-dan-gup\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a> "
     },
     {
       "tag": "juknis_enam",
       "patterns": ["Juknis Siklus Perekaman Transaksi PTUP"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang siklus Perekaman Transaksi PTUP , mulai dari Pemindahan Kas Bank, Validasi Perintah Bayar, Membuat Kuitansi hingga Mencatat SP2D NIHIL TUP (PTUP) pada Pemindahan Kas Bendahara Pengeluaran. "
+      "responses": "Petunjuk teknis ini menjelaskan tentang siklus Perekaman Transaksi PTUP , mulai dari Pemindahan Kas Bank, Validasi Perintah Bayar, Membuat Kuitansi hingga Mencatat SP2D NIHIL TUP (PTUP) pada Pemindahan Kas Bendahara Pengeluaran.<a href=\"https://haichatbotsakti.site/bendahara/siklus-transaksi-ptup\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a> "
     },
     {
       "tag": "juknis_tujuh",
       "patterns": ["Juknis Bendahara Penerimaan 2021"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang cara menatausahakan penerimaan (PNBP) baik yang sifatnya umum maupun\nfungsional sesuai dengan kategori transaksinya oleh Bendahara Penerimaan satker."
+      "responses": "Petunjuk teknis ini menjelaskan tentang cara menatausahakan penerimaan (PNBP) baik yang sifatnya umum maupun\nfungsional sesuai dengan kategori transaksinya oleh Bendahara Penerimaan satker.<a href=\"https://haichatbotsakti.site/bendahara/modul-bendahara-penerimaan\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_delapan",
       "patterns": ["Juknis Pencatatan Pembayaran Dana Titipan"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara pencatatan pembayaran dana titipan. Dana titipan adalah dana yang berasal dari seluruh jenis SPM/SP2D LS Bendahara yang akan diteruskan pemberiannya ke pihak ketiga selaku penerima dana (bisa kepada pegawai atau rekanan)."
+      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara pencatatan pembayaran dana titipan. Dana titipan adalah dana yang berasal dari seluruh jenis SPM/SP2D LS Bendahara yang akan diteruskan pemberiannya ke pihak ketiga selaku penerima dana (bisa kepada pegawai atau rekanan).<a href=\"https://haichatbotsakti.site/bendahara/pencatatan-pembayaran-dana-titipan\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_sembilan",
       "patterns": ["Juknis Perekaman Referensi Wajib Pajak Wajib Bayar Bendahara"],
-      "responses": "Petunjuk teknis ini digunakan untuk mencatat referensi wajib pajak yang nantinya akan digunakan ketika melakukan pencatatan kuitansi UP/TUP, SPBy, dan pencatatan penerimaan barang/jasa UP/TUP tunai"
+      "responses": "Petunjuk teknis ini digunakan untuk mencatat referensi wajib pajak yang nantinya akan digunakan ketika melakukan pencatatan kuitansi UP/TUP, SPBy, dan pencatatan penerimaan barang/jasa UP/TUP tunai.<a href=\"https://haichatbotsakti.site/bendahara/perekaman-referensi-wajib-pajak-wajib-bayar-bendahara\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_satunol",
       "patterns": ["Juknis Perekaman UP BPP - RSPP"],
-      "responses": "Petunjuk teknis ini digunakan untuk perekaman siklus transaksi UP BPP yang sebelumnya masih menggunakan konsep Uang Muka. Konsep baru ini merupakan penyempurnaan mekanisme penyaluran alokasi UP BPP yang berjalan sebelumnya. Sebelumnya pada Aplikasi SAKTI, perekaman UPBPP menggunakan konsep Uang Muka."
+      "responses": "Petunjuk teknis ini digunakan untuk perekaman siklus transaksi UP BPP yang sebelumnya masih menggunakan konsep Uang Muka. Konsep baru ini merupakan penyempurnaan mekanisme penyaluran alokasi UP BPP yang berjalan sebelumnya. Sebelumnya pada Aplikasi SAKTI, perekaman UPBPP menggunakan konsep Uang Muka.<a href=\"https://haichatbotsakti.site/bendahara/siklus-transaksi-up-bpp\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_satusatu",
       "patterns": ["Juknis Setoran Pengembalian Belanja"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang bagaimana langkah yang harus dilakukan dalam hal pengembalian belanja sebelum dilakukannya pemulihan pagu pada aplikasi SAKTI. Sebelum satker melakukan perekaman SPP Pemulihan pagu, pastikan satker terlebih dahulu sudah melakukan penyetoran pengembalian belanja ke kas negara dengan dibuktikan melalui NTPN yang telah terbit kemudian merekam pada menu setoran SSPB di modul bendahara."
+      "responses": "Petunjuk teknis ini menjelaskan tentang bagaimana langkah yang harus dilakukan dalam hal pengembalian belanja sebelum dilakukannya pemulihan pagu pada aplikasi SAKTI. Sebelum satker melakukan perekaman SPP Pemulihan pagu, pastikan satker terlebih dahulu sudah melakukan penyetoran pengembalian belanja ke kas negara dengan dibuktikan melalui NTPN yang telah terbit kemudian merekam pada menu setoran SSPB di modul bendahara.<a href=\"https://haichatbotsakti.site/bendahara/setoran-pengembalian-belanja-sspb\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_satudua",
       "patterns": ["Juknis Setoran UP TUP Bendahara Pengeluaran"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang bagaimana langkah yang harus dilakukan jika pada akhir tahun anggaran terdapat sisa saldo UP/TUP di kas bendahara pengeluaran yang harus disetorkan kembali ke kas negara (mengingat saldo pada kas bendahara di akhir tahun harus bersaldo 0)."
+      "responses": "Petunjuk teknis ini menjelaskan tentang bagaimana langkah yang harus dilakukan jika pada akhir tahun anggaran terdapat sisa saldo UP/TUP di kas bendahara pengeluaran yang harus disetorkan kembali ke kas negara (mengingat saldo pada kas bendahara di akhir tahun harus bersaldo 0). <a href=\"https://haichatbotsakti.site/bendahara/perekaman-setoran-sisa-up-tup-bendahara-pengeluaran\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_satutiga",
       "patterns": ["Juknis Siklus Pembuatan LPJ Bendahara Pengeluaran"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang siklus pelaporan LPJ Bendahara Pengeluaran bulanan pada aplikasi SAKTI modul bendahara."
+      "responses": "Petunjuk teknis ini menjelaskan tentang siklus pelaporan LPJ Bendahara Pengeluaran bulanan pada aplikasi SAKTI modul bendahara.<a href=\"<a href=\"https://haichatbotsakti.site/bendahara/siklus-pembuatan-lpj-bendahara-pengeluaran-bulanan\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_satuempat",
       "patterns": ["Juknis Siklus Perekaman TUP 2021"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang siklus Perekaman TUP, mulai dari Membuat Usulan Rincian Pembiayaan TUP, Merekam dan Mencetak SPP TUP, Menyetujui SPP TUP hingga Mencetak Menyetujui SPM TUP. "
+      "responses": "Petunjuk teknis ini menjelaskan tentang siklus Perekaman TUP, mulai dari Membuat Usulan Rincian Pembiayaan TUP, Merekam dan Mencetak SPP TUP, Menyetujui SPP TUP hingga Mencetak Menyetujui SPM TUP.<a href=\"https://haichatbotsakti.site/bendahara/siklus-perekaman-tup-2021\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_satulima",
       "patterns": ["Juknis Siklus Perekaman UP Awal"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang siklus Perekaman UP Awal, mulai dari Merekam Referensi Variabel UP, Referensi kelompok Akun UP, Merekam, Mencetak, dan menyetujui SPP UP hingga Mencetak dan Menyetujui SPM UP. "
+      "responses": "Petunjuk teknis ini menjelaskan tentang siklus Perekaman UP Awal, mulai dari Merekam Referensi Variabel UP, Referensi kelompok Akun UP, Merekam, Mencetak, dan menyetujui SPP UP hingga Mencetak dan Menyetujui SPM UP.<a href=\"https://haichatbotsakti.site/bendahara/siklus-perekaman-up-awal\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_satuenam",
       "patterns": ["Juknis Import Supplier Interkoneksi Langsung SPAN"],
-      "responses": "Petunjuk teknis ini digunakan untuk melakukan Import Supplier dengan data sumber Terinterkoneksi Langsung dengan SPAN"
+      "responses": "Petunjuk teknis ini digunakan untuk melakukan Import Supplier dengan data sumber Terinterkoneksi Langsung dengan SPAN. <a href=\"https://haichatbotsakti.site/komitmen/import-supplier-interkoneksi-langsung-span\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_satutujuh",
       "patterns": ["Juknis Interkoneksi Aplikasi SAKTI Dengan Aplikasi GPP Terpusat KPPN"],
-      "responses": "Petunjuk teknis ini menjelaskan mengenai interkoneksi Aplikasi SAKTI dengan Aplikasi GPP Terpusat KPPN, dengan beberapa fitur yaitu Perekaman Refetensi Anak Satker, Pembuatan SPM Gaji,  dari Gaji Induk, 13, THR, hingga Gaji Terusan"
+      "responses": "Petunjuk teknis ini menjelaskan mengenai interkoneksi Aplikasi SAKTI dengan Aplikasi GPP Terpusat KPPN, dengan beberapa fitur yaitu Perekaman Refetensi Anak Satker, Pembuatan SPM Gaji,  dari Gaji Induk, 13, THR, hingga Gaji Terusan.<a href=\"https://haichatbotsakti.site/komitmen/interkoneksi-aplikasi-sakti-dengan-aplikasi-gpp-terpusat-kppn\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_satudelapan",
       "patterns": ["Juknis Pemindahan Pengelolaan dan Perekaman Supplier Tipe 3"],
-      "responses": "Petunjuk Teknis ini membahas tentang bagaimana proses pemindahan data supplier tipe 3 dengan diawali dari Aplikasi GPP untuk kemudian dilanjutkan dengan proses perekaman Supplier tipe 3 pada Aplikasi SAKTI."
+      "responses": "Petunjuk Teknis ini membahas tentang bagaimana proses pemindahan data supplier tipe 3 dengan diawali dari Aplikasi GPP untuk kemudian dilanjutkan dengan proses perekaman Supplier tipe 3 pada Aplikasi SAKTI.<a href=\"https://haichatbotsakti.site/komitmen/pemindahan-pengelolaan-dan-perekaman-supplier-tipe-3\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_satusembilan",
       "patterns": ["Juknis Perekaman BAST BG SPTJM"],
-      "responses": "Petunjuk teknis ini digunakan untuk perekaman BAST dengan menggunakan Bank Garansi. Selain itu, petunjuk teknis ini juga digunakan untuk transaksi kontraktual dengan nominal nilai kontrak 50 juta atau kurang dari 50 juta dengan mekanisme SPTJM."
+      "responses": "Petunjuk teknis ini digunakan untuk perekaman BAST dengan menggunakan Bank Garansi. Selain itu, petunjuk teknis ini juga digunakan untuk transaksi kontraktual dengan nominal nilai kontrak 50 juta atau kurang dari 50 juta dengan mekanisme SPTJM.<a href=\"https://haichatbotsakti.site/komitmen/perekaman-bast-dengan-bank-garansi-sptjm\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_duanol",
       "patterns": ["Juknis Perekaman Supplier Tipe 1,2,7 Rev.1"],
-      "responses": "Petunjuk Teknis ini digunakan untuk melakukan perekaman data Supplier tipe 2 dapat dilakukan dengan cara Impor Supplier atau dengan perekaman manual."
+      "responses": "Petunjuk Teknis ini digunakan untuk melakukan perekaman data Supplier tipe 2 dapat dilakukan dengan cara Impor Supplier atau dengan perekaman manual.<a href=\"https://haichatbotsakti.site/komitmen/perekaman-supplier-tipe-1-2-dan-7\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_duasatu",
       "patterns": ["Juknis Perekaman Supplier Tipe 6 Rev.1"],
-      "responses": "Petunjuk teknis ini digunakan untuk Perekaman Supplier Tipe 6 dapat dilakukan dengan cara Import data Supplier yang telah terdaftar pada SPAN maupun Perekaman Manual dengan menggunakan data sumber berupa ADK excel dari Aplikasi SAS"
+      "responses": "Petunjuk teknis ini digunakan untuk Perekaman Supplier Tipe 6 dapat dilakukan dengan cara Import data Supplier yang telah terdaftar pada SPAN maupun Perekaman Manual dengan menggunakan data sumber berupa ADK excel dari Aplikasi SAS.<a href=\"https://haichatbotsakti.site/komitmen/perekaman-data-supplier-tipe-6-ppnpn\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_duadua",
       "patterns": ["Juknis Mekanisme Pembuatan ADK BCSU"],
-      "responses": "Petunjuk teknis ini digunakan untuk melakukan perubahan data supplier dengan melakukan pembuatan file BCSU (Budget Commitment Supplier Update)"
+      "responses": "Petunjuk teknis ini digunakan untuk melakukan perubahan data supplier dengan melakukan pembuatan file BCSU (Budget Commitment Supplier Update).<a href=\"https://haichatbotsakti.site/komitmen/mekanisme-pembuatan-file-bcsu-ubah-data-supplier\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_duatiga",
       "patterns": ["Juknis Perekaman Addendum Kontrak Tahunan IDR"],
-      "responses": "Petunjuk teknis ini digunakan untuk melakukan perubahan data kontrak (Addendum Kontrak), mulai dari perekeman data kontrak, hingga addendum data kontrak yang merubah struktur data maupun yang tidak merubah struktur data"
+      "responses": "Petunjuk teknis ini digunakan untuk melakukan perubahan data kontrak (Addendum Kontrak), mulai dari perekeman data kontrak, hingga addendum data kontrak yang merubah struktur data maupun yang tidak merubah struktur data.<a href=\"https://haichatbotsakti.site/komitmen/perekaman-addendum-kontrak-tahunan\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_duaempat",
       "patterns": ["Juknis Perekaman Supplier Untuk SPM KP Kompensasi"],
-      "responses": "Petunjuk Teknis ini digunakan untuk melakukan perekaman data Supplier SPM KP Kompensasi, mulai dari Rekam Data Supplier, Membuat ADK BCSR, hingga Proses pada KPPN"
+      "responses": "Petunjuk Teknis ini digunakan untuk melakukan perekaman data Supplier SPM KP Kompensasi, mulai dari Rekam Data Supplier, Membuat ADK BCSR, hingga Proses pada KPPN.<a href=\"https://haichatbotsakti.site/komitmen/perekaman-data-supplier-untuk-spmkp-kompensasi\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_dualima",
       "patterns": ["Juknis Rekam Addendum Kontrak Multi Year SAKTI WEB"],
-      "responses": "Petunjuk Teknis ini digunakan untuk melakukan perekaman Addendum Kontrak Multi Year (Tahun Jamak), mulai dari Rekam Data Kontrak, Membuat ADK Kontrak (BCAM), hingga Proses pada KPPN"
+      "responses": "Petunjuk Teknis ini digunakan untuk melakukan perekaman Addendum Kontrak Multi Year (Tahun Jamak), mulai dari Rekam Data Kontrak, Membuat ADK Kontrak (BCAM), hingga Proses pada KPPN.<a href=\"https://haichatbotsakti.site/komitmen/perekaman-addendum-data-kontrak-multi-year-tahun-jamak\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_duaenam",
       "patterns": ["Juknis Rekam Addendum Kontrak Release SAKTI WEB"],
-      "responses": "Petunjuk Teknis ini digunakan untuk melakukan perekaman Addendum Kontrak Release (Komitmen Tahunan Kontrak Tahun Jamak), mulai dari Rekam Data Kontrak, Membuat ADK Kontrak Release (BCAR), hingga Proses pada KPPN"
+      "responses": "Petunjuk Teknis ini digunakan untuk melakukan perekaman Addendum Kontrak Release (Komitmen Tahunan Kontrak Tahun Jamak), mulai dari Rekam Data Kontrak, Membuat ADK Kontrak Release (BCAR), hingga Proses pada KPPN.<a href=\"https://haichatbotsakti.site/komitmen/perekaman-addendum-data-kontrak-release-komitmen-tahunan-kontrak-tahun-jamak\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_duatujuh",
       "patterns": ["Juknis Rekam BAST Kontraktual SAKTI WEB"],
-      "responses": "Petunjuk Teknis ini digunakan untuk melakukan perekaman BAST Kontraktual yang merupakan trigger dalam perekaman SPP Kontraktual. Mulai dari Rekam data kontrak, Membuat ADK BCKA, Rekam BAST Kontraktual hingga Rekam SPP kontraktual"
+      "responses": "Petunjuk Teknis ini digunakan untuk melakukan perekaman BAST Kontraktual yang merupakan trigger dalam perekaman SPP Kontraktual. Mulai dari Rekam data kontrak, Membuat ADK BCKA, Rekam BAST Kontraktual hingga Rekam SPP kontraktual.<a href=\"https://haichatbotsakti.site/komitmen/perekaman-bast-kontraktual\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_duadelapan",
       "patterns": ["Juknis Rekam BAST Non Kontraktual SAKTI WEB"],
-      "responses": "Petunjuk Teknis ini digunakan untuk melakukan perekaman BAST Kontraktual yang merupakan trigger dalam perekaman SPP LS Non\nKontraktual. Mulai dari Rekam Supplier Manual / Import Supplier Manual, Membuat ADK BCSR, Rekam BAST NON Kontraktual hingga Rekam SPP LS NON kontraktual"
+      "responses": "Petunjuk Teknis ini digunakan untuk melakukan perekaman BAST Kontraktual yang merupakan trigger dalam perekaman SPP LS Non\nKontraktual. Mulai dari Rekam Supplier Manual / Import Supplier Manual, Membuat ADK BCSR, Rekam BAST NON Kontraktual hingga Rekam SPP LS NON kontraktual.<a href=\"https://haichatbotsakti.site/komitmen/perekaman-bast-non-kontraktual\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_duasembilan",
       "patterns": ["Juknis Rekam Kontrak Multi Year SAKTI WEB"],
-      "responses": "Petunjuk Teknis ini digunakan untuk melakukan perekaman Kontrak Tahun Jamak (Multi Year), Mulai dari Rekam Kontrak, Membuat ADK Kontrak BCKM, Proses KPPN hingga menghasilkan nomor CAN (Commitment Application Number) / NRK (Nomor Register Kontak)"
+      "responses": "Petunjuk Teknis ini digunakan untuk melakukan perekaman Kontrak Tahun Jamak (Multi Year), Mulai dari Rekam Kontrak, Membuat ADK Kontrak BCKM, Proses KPPN hingga menghasilkan nomor CAN (Commitment Application Number) / NRK (Nomor Register Kontak).<a href=\"https://haichatbotsakti.site/komitmen/perekaman-data-kontrak-multi-year-tahun-jamak\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_tiganol",
       "patterns": ["Juknis Rekam Kontrak Release SAKTI WEB"],
-      "responses": "Petunjuk Teknis ini digunakan untuk melakukan Perekaman Kontrak Release (Komitmen Tahunan Kontrak Tahun Jamak), Mulai dari Rekam Kontrak, Membuat ADK Kontrak BCKR, Proses KPPN hingga menghasilkan nomor CAN (Commitment Application Number) / NRK (Nomor Register Kontak)"
+      "responses": "Petunjuk Teknis ini digunakan untuk melakukan Perekaman Kontrak Release (Komitmen Tahunan Kontrak Tahun Jamak), Mulai dari Rekam Kontrak, Membuat ADK Kontrak BCKR, Proses KPPN hingga menghasilkan nomor CAN (Commitment Application Number) / NRK (Nomor Register Kontak).<a href=\"https://haichatbotsakti.site/komitmen/perekaman-data-kontrak-release-komitmen-tahunan-kontrak-tahun-jamak\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_tigasatu",
       "patterns": ["Juknis Rekam Kontrak Tahunan IDR SAKTI WEB"],
-      "responses": "Petunjuk Teknis ini digunakan untuk melakukan Perekaman Data Kontrak Tahunan Menggunakan IDR (Kontrak Tahun Tunggal), Mulai dari Rekam Data Kontrak, Membuat ADK BCKA hingga Proses Pada KPPN"
+      "responses": "Petunjuk Teknis ini digunakan untuk melakukan Perekaman Data Kontrak Tahunan Menggunakan IDR (Kontrak Tahun Tunggal), Mulai dari Rekam Data Kontrak, Membuat ADK BCKA hingga Proses Pada KPPN.<a href=\"https://haichatbotsakti.site/komitmen/perekaman-data-kontrak-tahunan-menggunakan-idr\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_tigadua",
       "patterns": ["Juknis Perekaman SPM 111 -  Non Gaji Kontraktual"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 111 - Non Gaji Kontraktual "
+      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 111 - Non Gaji Kontraktual .<a href=\"https://haichatbotsakti.site/pembayaran/perekaman-spm-kontraktual\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_tigatiga",
       "patterns": ["Juknis Perekaman SPM 211 - Gaji Induk Pegawai"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 211 - Gaji Induk Pegawai"
+      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 211 - Gaji Induk Pegawai.<a href=\"https://haichatbotsakti.site/pembayaran/perekaman-spm-gaji-induk\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_tigaempat",
       "patterns": ["Juknis Perekaman SPM 214 - Gaji Pejabat Negara"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 214 - Gaji Pejabat Negara"
+      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 214 - Gaji Pejabat Negara.<a href=\"https://haichatbotsakti.site/pembayaran/perekaman-spm-gaji-pejabat-negara\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_tigalima",
       "patterns": ["Juknis Perekaman SPM 217 - Penghasilan PPNPN Induk"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 217 - Penghasilan PPNPN Induk"
+      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 217 - Penghasilan PPNPN Induk.<a href=\"https://haichatbotsakti.site/pembayaran/perekaman-spm-penghasilan-ppnpn-induk\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_tigaenam",
       "patterns": ["Juknis Perekaman SPM 221 - Gaji Lainnya"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 221 - Gaji Lainnya"
+      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 221 - Gaji Lainnya.<a href=\"https://haichatbotsakti.site/pembayaran/perekaman-spm-gaji-lainnya\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_tigatujuh",
       "patterns": ["Juknis Perekaman SPM 222 - Kekurangan Gaji"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 222 - Kekurangan Gaji"
+      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 222 - Kekurangan Gaji.<a href=\"https://haichatbotsakti.site/pembayaran/perekaman-spm-kekurangan-gaji\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_tigadelapan",
       "patterns": ["Juknis Perekaman SPM 223 - Gaji Susulan"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 223 - Gaji Susulan"
+      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 223 - Gaji Susulan.<a href=\"https://haichatbotsakti.site/pembayaran/perekaman-spm-gaji-susulan\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_tigasembilan",
       "patterns": ["Juknis Perekaman SPM 227 - Penghasilan PPNPN Susulan"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 227 - Penghasilan PPNPN Susulan"
+      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 227 - Penghasilan PPNPN Susulan.<a href=\"https://haichatbotsakti.site/pembayaran/perekaman-spm-gaji-susulan\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_empatnol",
       "patterns": ["Juknis Perekaman SPM 231 - Non Gaji - BAST"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 231 - Non Gaji - BAST"
+      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 231 - Non Gaji - BAST.<a href=\"https://haichatbotsakti.site/pembayaran/perekaman-spm-non-gaji-bast\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_empatsatu",
       "patterns": ["Juknis Perekaman SPM 231 - Non Gaji - Non BAST"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 231 - Non Gaji - Non BAST"
+      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 231 - Non Gaji - Non BAST.<a href=\"https://haichatbotsakti.site/pembayaran/perekaman-spm-non-gaji-non-bast\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_empatdua",
       "patterns": ["Juknis Perekaman SPM 233 - SPM-IB-PAJAK"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 233 - SPM-IB-PAJAK"
+      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 233 - SPM-IB-PAJAK.<a href=\"https://haichatbotsakti.site/pembayaran/perekaman-spm-ib-pajak-imbalan-bunga-pajak\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_empattiga",
       "patterns": ["Juknis Perekaman SPM 234 - SPM-IB-PBB"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 234 - SPM-IB-PBB"
+      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 234 - SPM-IB-PBB.<a href=\"https://haichatbotsakti.site/pembayaran/perekaman-spm-ib-pbb-imbalan-bunga-pajak-bumi-dan-bangunan\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_empatempat",
       "patterns": ["Juknis Perekaman SPM 237 - LS-Banyak Penerima - BAST"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 237 - LS-Banyak Penerima - BAST"
+      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 237 - LS-Banyak Penerima - BAST.<a href=\"https://haichatbotsakti.site/pembayaran/perekaman-spm-ls-banyak-penerima-bast\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_empatlima",
       "patterns": ["Juknis Perekaman SPM 237 - LS-Banyak Penerima - Non BAST"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 237 - LS-Banyak Penerima - Non BAST"
+      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 237 - LS-Banyak Penerima - Non BAST.<a href=\"https://haichatbotsakti.site/pembayaran/perekaman-spm-ls-banyak-penerima-non-bast\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_empatenam",
       "patterns": ["Juknis Perekaman SPM 414 - SPM-P-BMDAB"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 414 - SPM-P-BMDAB"
+      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 414 - SPM-P-BMDAB.<a href=\"https://haichatbotsakti.site/pembayaran/perekaman-spm-p-bmdab-pengembalian-bea-masuk-denda-administrasi-dan-atau-bunga\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_empattujuh",
       "patterns": ["Juknis Perekaman SPM 415 - SPM-P-BMC"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 415 - SPM-P-BMC"
+      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 415 - SPM-P-BMC.<a href=\"https://haichatbotsakti.site/pembayaran/perekaman-spm-p-bmc-pengembalian-bea-masuk-dan-atau-cukai\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_empatdelapan",
       "patterns": ["Juknis Perekaman SPM 416 - SPM KPE_KBK"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 416 - SPM KPE_KBK"
+      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 416 - SPM KPE_KBK.<a href=\"https://haichatbotsakti.site/pembayaran/perekaman-spm-kpe-kbk-kembali-pungutan-ekspor-kembali-bea-keluar\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_empatsembilan",
       "patterns": ["Juknis Perekaman SPM 421 - SPM-P-PNBP"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 421 - SPM-P-PNBP"
+      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 421 - SPM-P-PNBP.<a href=\"https://haichatbotsakti.site/pembayaran/perekaman-spm-p-pnbp-pengembalian-penerimaan-negara-bukan-pajak\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_limanol",
       "patterns": ["Juknis Perekaman SPM 431 - SPMKC"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 431 - SPMKC"
+      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 431 - SPMKC.<a href=\"https://haichatbotsakti.site/pembayaran/perekaman-spmkc-kembali-cukai\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_limasatu",
       "patterns": ["Juknis Perekaman SPM 432 - KBE KBK"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 432 - KBE KBK"
+      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM 432 - KBE KBK.<a href=\"https://haichatbotsakti.site/pembayaran/perekaman-spmkbe-kbk-kembali-bea-ekspor-kembali-bea-keluar\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_limadua",
       "patterns": ["Juknis Perekaman SPM Pemotongan dan Penyaluran Dana Desa"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM Pemotongan dan Penyaluran Dana Desa"
+      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM Pemotongan dan Penyaluran Dana Desa.<a href=\"https://haichatbotsakti.site/pembayaran/perekaman-spm-pemotongan-penyaluran-dana-desa\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_limatiga",
       "patterns": ["Juknis Perekaman SPM Penyaluran DAK Fisik 237"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM Penyaluran DAK Fisik 237"
+      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM Penyaluran DAK Fisik 237.<a href=\"https://haichatbotsakti.site/pembayaran/perekaman-spm-penyaluran-dak-fisik\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_limaempat",
       "patterns": ["Juknis Perekaman SPM Penyaluran DANA BOS 237"],
-      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM Penyaluran DANA BOS 237"
+      "responses": "Petunjuk teknis ini menjelaskan tentang tata cara Perekaman SPM Penyaluran DANA BOS 237.<a href=\"https://haichatbotsakti.site/pembayaran/perekaman-spm-penyaluran-dana-bos\"><button class=\"msger-send-btn btn\" > Akses Juknis </button></a>"
     },
     {
       "tag": "juknis_limalima",

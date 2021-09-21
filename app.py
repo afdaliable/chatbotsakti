@@ -13,7 +13,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 # Load model dan variabel lain
 model = load_model('model.h5')
 
-file_data = open('data_chatbot.json', encoding='utf-8').read()
+file_data = open('data_chatbot.json', encoding='utf-8', errors="ignore").read()
 intents = json.loads(file_data)
 kata_tanya = pickle.load(open('kata_tanya.pkl','rb'))
 kata_tag = pickle.load(open('kata_tag.pkl','rb'))
