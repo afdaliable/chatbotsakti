@@ -1,7 +1,7 @@
-nltk==3.6.1
-Flask==1.1.2
-numpy==1.19.5
-tensorflow-cpu==2.5.0
+nltk==3.6.6
+Flask==2.2.5
+numpy==1.22.0
+tensorflow-cpu==2.11.1
 Sastrawi==1.0.1
 scikit_learn==0.24.2
 gunicorn

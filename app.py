@@ -10,6 +10,10 @@ from tensorflow.keras.models import load_model
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 from sklearn.feature_extraction.text import TfidfVectorizer
 
+try:
+    nltk.download("punkt")
+except:
+    sys.exit(1)
 # Load model dan variabel lain
 model = load_model('model.h5')
 
